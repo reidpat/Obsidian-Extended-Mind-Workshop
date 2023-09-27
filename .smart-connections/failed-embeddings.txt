@@ -1,4 +1,7 @@
 
+Home.canvas
+Journals/2023-09-27.md
+Journals/Journals.md
 Source Notes/Classes/Class 1/Class 1.md
 Source Notes/Classes/Class 2/Class 2.md
 Source Notes/Classes/Class 2/Untitled.md

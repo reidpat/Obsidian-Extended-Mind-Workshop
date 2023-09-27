@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0a265396946ca849","type":"text","text":"# Class 1 Lectures\n\n```dataview\nTable topics, reviewed, file.inlinks, file.outlinks\nFrom \"Source Notes/Classes/Class 1\"\nWhere file.name != \"Class 1\"\n```\n","x":-760,"y":-640,"width":740,"height":200},
-		{"id":"e4ccba7198d55fd6","type":"text","text":"# Useful Links\n## Plugins\n- [Templater](https://silentvoid13.github.io/Templater)\n- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)\n\n## Other\n- [OpenAI API Key](https://platform.openai.com/account/api-keys)\n","x":-760,"y":-420,"width":740,"height":340}
+		{"id":"e4ccba7198d55fd6","type":"text","text":"# Useful Links\n## Plugins\n- [Templater](https://silentvoid13.github.io/Templater)\n- [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)\n\n## Other\n- https://help.obsidian.md/Getting+started/Create+your+first+note\n- [OpenAI API Key](https://platform.openai.com/account/api-keys)\n","x":-760,"y":-420,"width":740,"height":340}
 	],
 	"edges":[]
 }

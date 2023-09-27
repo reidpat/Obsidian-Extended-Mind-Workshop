@@ -16,12 +16,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Home.canvas\",\"viewState\":{\"x\":-390,\"y\":-360,\"zoom\":0}}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Journals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Journals\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Journals",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Journals/Journals.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Daily Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Daily Notes\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -161,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Obsidian Extended Mind Workshop.md"
+                "file": "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md"
               }
             }
           },
@@ -341,10 +371,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9e7398b6281ead05",
+  "active": "b35c1097caa1f583",
   "lastOpenFiles": [
-    "Projects/Obsidian Extended Mind Workshop.md",
     "Home.canvas",
+    "Journals/Journals.md",
+    "Projects/Obsidian Extended Mind Workshop.md",
     "Source Notes/Classes/Class 1/Class 1.md",
     "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md",
     "Source Notes/Classes/Class 2/Class 2.md",
@@ -365,9 +396,9 @@
     "Excalidraw/Class 2 2023-09-27 13.42.09.excalidraw.md",
     "Excalidraw/Lecture 1 2023-09-27 13.42.34.excalidraw.md",
     "Excalidraw",
-    "Daily Notes/2023-09-27.md",
+    "Journals/2023-09-27.md",
     "Templates",
-    "Daily Notes",
+    "Journals",
     "Concept Notes",
     "Source Notes",
     "Source Notes/Classes/Class 2"
