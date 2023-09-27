@@ -51,7 +51,8 @@
       "Source Notes",
       "Source Notes/Classes/Class 2",
       "Daily Notes",
-      "Daily Notes"
+      "Daily Notes",
+      "Attachments"
     ]
   },
   "expandedSpaces": [
@@ -89,7 +90,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695854451800,
+  "spacesAutoBackupLast": 1695856540020,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
