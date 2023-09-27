@@ -8,7 +8,6 @@
   "recent-files-obsidian",
   "homepage",
   "obsidian-hover-editor",
-  "obsidian-spaced-repetition",
   "pane-relief",
   "smart-connections",
   "settings-search",
@@ -17,10 +16,11 @@
   "obsidian-importer",
   "folder-note-core",
   "alx-folder-note",
-  "simple-note-review",
   "flashcards-llm",
   "influx",
   "lumberjack-obsidian",
   "whisper",
-  "make-md"
+  "make-md",
+  "nldates-obsidian",
+  "obsidian-spaced-repetition"
 ]

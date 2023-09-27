@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"0a265396946ca849","type":"text","text":"# Class 1 Lectures\n\n```dataview\nTable topics, reviewed, file.inlinks, file.outlinks\nFrom \"Source Notes/Classes/Class 1\"\nWhere file.name != \"Class 1\"\n```\n","x":100,"y":-200,"width":522,"height":529}
+	],
+	"edges":[]
+}

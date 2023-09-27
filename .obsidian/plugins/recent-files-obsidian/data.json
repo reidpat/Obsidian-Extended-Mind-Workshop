@@ -1,32 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Lecture Note Template",
-      "path": "Templates/Lecture Note Template.md"
+      "basename": "Home",
+      "path": "Home.canvas"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "Templates/Daily Note Template.md"
+      "basename": "Lecture 1 - Extended Mind",
+      "path": "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md"
     },
     {
-      "basename": "Templates",
-      "path": "Templates/Templates.md"
+      "basename": "Lecture 1 2023-09-27 13.42.34.excalidraw",
+      "path": "Excalidraw/Lecture 1 2023-09-27 13.42.34.excalidraw.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Source Notes/Classes/Class 2/Untitled.md"
-    },
-    {
-      "basename": "Class 2",
-      "path": "Source Notes/Classes/Class 2/Class 2.md"
+      "basename": "Lecture 1",
+      "path": "Source Notes/Classes/Class 2/Lecture 1.md"
     },
     {
       "basename": "Extended Mind",
       "path": "Concept Notes/Extended Mind.md"
     },
     {
-      "basename": "Lecture 1 - Extended Mind",
-      "path": "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md"
+      "basename": "Class 2",
+      "path": "Source Notes/Classes/Class 2/Class 2.md"
+    },
+    {
+      "basename": "Class 2 2023-09-27 13.42.09.excalidraw",
+      "path": "Excalidraw/Class 2 2023-09-27 13.42.09.excalidraw.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "Templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Lecture Note Template",
+      "path": "Templates/Lecture Note Template.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
     },
     {
       "basename": "Class 1",
@@ -35,10 +47,6 @@
     {
       "basename": "2023-09-27",
       "path": "Daily Notes/2023-09-27.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.canvas"
     }
   ],
   "omittedPaths": [],

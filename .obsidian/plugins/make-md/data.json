@@ -37,7 +37,6 @@
   "expandedFolders": {
     "Obsidian-Extended-Mind-Workshop": [
       "Source Notes",
-      "Concept Notes",
       "Daily Notes",
       "Source Notes/Classes",
       "Source Notes/Classes/Class 1",
@@ -47,7 +46,11 @@
       "Source Notes/Classes/Class 1",
       "Source Notes/Classes/Class 2",
       "Source Notes/Classes/Class 2",
-      "Templates"
+      "Templates",
+      "Source Notes/Classes/Class 2",
+      "Excalidraw",
+      "Source Notes/Classes/Class 2",
+      "Source Notes/Classes/Class 2"
     ]
   },
   "expandedSpaces": [
@@ -84,7 +87,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695844741110,
+  "spacesAutoBackupLast": 1695847851556,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
