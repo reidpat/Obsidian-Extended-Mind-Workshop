@@ -1,5 +1,5 @@
 ---
 Topics: ""
 Reviewed: false
-Date: <% tp.date.now() %>
+Date: <<tp.date.now()>>
 ---

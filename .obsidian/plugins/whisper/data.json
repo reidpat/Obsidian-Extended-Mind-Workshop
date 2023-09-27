@@ -1,5 +1,5 @@
 {
-  "apiKey": "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",
+  "apiKey": "aNWElZ5ehvQsh5coXEgxT3BlbkFJz3CWdp3dN0fuepxOoh5h",
   "apiUrl": "https://api.openai.com/v1/audio/transcriptions",
   "model": "whisper-1",
   "language": "en",

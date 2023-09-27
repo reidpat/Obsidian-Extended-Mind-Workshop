@@ -1,1 +1,0 @@
-![[Lecture 1 2023-09-27 13.42.34.excalidraw]]

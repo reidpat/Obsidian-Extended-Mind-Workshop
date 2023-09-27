@@ -1,3 +1,10 @@
+---
+Topics: ""
+Reviewed: false
+Date:
+---
+
+
 In this class, we learned about the [[Extended Mind]]
 - A philosophical idea which challenges traditional thinking that cognition only occurs within the brain
 - Cognitive processes and states can extend beyond the confines of an individual's body through the incorporation of an extension
