@@ -4,346 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "761032411d7b368d",
+        "id": "081588a86ab24f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "3cea9c5066b914de",
+            "id": "b35c1097caa1f583",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Wedding_Reid",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Wedding_Reid.jpg\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Home.canvas\",\"viewState\":{\"x\":-368,\"y\":-374.51285319290605,\"zoom\":0}}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 2/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Lecture Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Home.canvas\",\"viewState\":{\"x\":-390,\"y\":-540,\"zoom\":0}}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Lecture Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Daily Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture 1 - Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Class 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 1\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Lecture Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture 1 - Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Home.canvas\",\"viewState\":{\"x\":-499,\"y\":-375.5,\"zoom\":0}}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Class 2 2023-09-27 13.42.09.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Class 2 2023-09-27 13.42.09.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture 1 2023-09-27 13.42.34.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Lecture 1 2023-09-27 13.42.34.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 2/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture 1 - Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 2/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Class 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 2\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Lecture Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Daily Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Templates",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Templates\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Class 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 2\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Home.canvas\",\"viewState\":{\"x\":-61,\"y\":-107.5,\"zoom\":0}}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture 1 - Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture 1 2023-09-27 13.42.34.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Lecture 1 2023-09-27 13.42.34.excalidraw.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 2/Lecture 1.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":43},\"to\":{\"line\":0,\"ch\":3}}}"
-                },
-                {
-                  "title": "Class 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 2\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture 1 - Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":53},\"to\":{\"line\":0,\"ch\":53}}}"
-                },
-                {
-                  "title": "Daily Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Lecture Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Home.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Lecture Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Daily Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Templates",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Templates\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lecture 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 2/Lecture 1.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Class 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 2\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Concept Notes/Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture 1 - Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Class 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 2\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Class 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 1\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Class 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 2\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Class 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 1\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Class 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Class 1.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Concept Notes/Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lecture 1 - Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "Class 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"make-folder-view\",\"state\":{\"contextPath\":\"Source Notes/Classes/Class 1\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Concept Notes/Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-09-27",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Daily Notes/2023-09-27.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":50},\"to\":{\"line\":0,\"ch\":50}}}"
-                },
-                {
-                  "title": "Extended Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Concept Notes/Extended Mind.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Home.canvas\",\"viewState\":{\"x\":0,\"y\":-465,\"zoom\":0}}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Obsidian Extended Mind Workshop",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian Extended Mind Workshop.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Extended Mind Workshop.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -483,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Extended Mind Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -509,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Extended Mind Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -550,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Extended Mind Workshop.md"
+                "file": "Projects/Obsidian Extended Mind Workshop.md"
               }
             }
           },
@@ -568,23 +244,6 @@
             },
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "190af681311b3a94",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "smart-connections-view",
               "state": {}
             }
           },
@@ -623,9 +282,43 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "0ae5a4dd76227b4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f2f40760dff2bf3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -639,43 +332,44 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "copilot:Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
       "whisper:Open recording controls": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3cea9c5066b914de",
+  "active": "9e7398b6281ead05",
   "lastOpenFiles": [
-    "Obsidian Extended Mind Workshop.md",
+    "Projects/Obsidian Extended Mind Workshop.md",
     "Home.canvas",
+    "Source Notes/Classes/Class 1/Class 1.md",
+    "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md",
+    "Source Notes/Classes/Class 2/Class 2.md",
+    "Source Notes/Classes/Class 2/Untitled.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Concept Notes/Extended Mind.md",
+    "Templates/Templates.md",
+    "Untitled.md",
+    "Home.md",
+    "Projects",
     "Attachments/Wedding_Reid.jpg",
     "Wedding_Reid.jpg",
     "Attachments",
     "Wedding_Reid (Small).jpg",
-    "Source Notes/Classes/Class 2/Untitled.md",
     "Templates/Lecture Note Template.md",
     "Templates/Daily Note Template.md",
-    "Source Notes/Classes/Class 1/Lecture 1 - Extended Mind.md",
     "Excalidraw/Class 2 2023-09-27 13.42.09.excalidraw.md",
     "Excalidraw/Lecture 1 2023-09-27 13.42.34.excalidraw.md",
-    "Source Notes/Classes/Class 2/Class 2.md",
-    "Templates/Templates.md",
-    "Source Notes/Classes/Class 2/Lecture 1.md",
-    "Concept Notes/Extended Mind.md",
     "Excalidraw",
-    "Source Notes/Classes/Class 1/Class 1.md",
     "Daily Notes/2023-09-27.md",
     "Templates",
     "Daily Notes",
-    "Context/spacesLastSync.log",
-    "Context",
     "Concept Notes",
     "Source Notes",
-    "Source Notes/Classes/Class 2",
-    "Source Notes/Classes/Class 1"
+    "Source Notes/Classes/Class 2"
   ]
 }

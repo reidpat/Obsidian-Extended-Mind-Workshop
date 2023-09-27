@@ -2,7 +2,6 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "calendar",
-  "obsidian-advanced-slides",
   "templater-obsidian",
   "quickadd",
   "recent-files-obsidian",
@@ -14,13 +13,14 @@
   "copilot",
   "hotkey-helper",
   "obsidian-importer",
-  "folder-note-core",
-  "alx-folder-note",
   "flashcards-llm",
   "influx",
   "lumberjack-obsidian",
   "whisper",
   "make-md",
   "nldates-obsidian",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "alx-folder-note",
+  "folder-note-core",
+  "obsidian-advanced-slides"
 ]

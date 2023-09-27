@@ -3,3 +3,4 @@
 # Reid Patterson
 Educator // Developer // Creator
 ![[Wedding_Reid.jpg]]
+
